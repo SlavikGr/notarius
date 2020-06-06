@@ -6,5 +6,8 @@ namespace DAL.Entities
 {
     class services_provided
     {
+        public int DealID { get; set; }
+        public int ServiceID { get; set; }
+        public double Price { get; set; }
     }
 }
