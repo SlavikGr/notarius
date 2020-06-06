@@ -4,7 +4,7 @@ using System.Text;
 
 namespace notarius.DAL.Entities
 {
-    class services_provided
+    public class services_provided
     {
         public int DealID { get; set; }
         public int ServiceID { get; set; }
