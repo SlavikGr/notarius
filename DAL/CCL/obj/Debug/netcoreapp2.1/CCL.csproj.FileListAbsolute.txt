@@ -1,0 +1,9 @@
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\bin\Debug\netcoreapp2.1\CCL.deps.json
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\bin\Debug\netcoreapp2.1\CCL.dll
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\bin\Debug\netcoreapp2.1\CCL.pdb
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.csprojAssemblyReference.cache
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.csproj.CoreCompileInputs.cache
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.AssemblyInfoInputs.cache
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.AssemblyInfo.cs
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.dll
+C:\Users\Slavik\Documents\GitHub\notarius\DAL\CCL\obj\Debug\netcoreapp2.1\CCL.pdb
