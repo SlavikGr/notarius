@@ -1,33 +1,29 @@
-﻿using BLL.Services.Interfaces;
+﻿using notarius.BLL.Services.Impl;
+using BLL.Services.Interfaces;
+using DAL.EF;
+using notarius.DAL.Entities;
+using DAL.Repositories.Interfaces;
+using DAL.UnitOfWork;
+using Microsoft.EntityFrameworkCore;
+using Moq;
+using notarius.Security;
+using notarius.Security.Identity;
 using System;
 using System.Collections.Generic;
-using System.Text;
-using DAL.EF;
-using Microsoft.EntityFrameworkCore;
-using System.Linq;
-using DAL.UnitOfWork;
-using BLL.DTO;
-using notarius.Security;
-using System.Security.Permissions;
-using notarius.Security.Identity;
-using AutoMapper;
 using Xunit;
-using BLL.Services.Impl;
-using Moq;
-using DAL.Repositories.Interfaces;
-using notarius.DAL.Entities;
-using deal = notarius.DAL.Entities.deal;
+using System.Linq;
 
 namespace BLL.Tests
 {
     public class DealServiceTests
     {
+
         [Fact]
         public void Ctor_InputNull_ThrowArgumentNullException()
         {
             // Arrange
             IUnitOfWork nullUnitOfWork = null;
-​
+            
     // Act
     // Assert
     Assert.Throws<ArgumentNullException>(

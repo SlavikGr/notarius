@@ -8,3 +8,16 @@ C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.
 C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.csproj.CoreCompileInputs.cache
 C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.AssemblyInfoInputs.cache
 C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.AssemblyInfo.cs
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.Tests.deps.json
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.Tests.runtimeconfig.json
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.Tests.runtimeconfig.dev.json
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.Tests.dll
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.Tests.pdb
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\BLL.pdb
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\bin\Debug\netcoreapp2.1\CCL.pdb
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.csproj.CopyComplete
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.dll
+C:\Users\Slavik\Documents\GitHub\notarius\BLL.Tests\obj\Debug\netcoreapp2.1\BLL.Tests.pdb
